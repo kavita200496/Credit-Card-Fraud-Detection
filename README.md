@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 This model is trained to label anonymized credit card transactions as fraudulent or genuine. 
-Dataset Source : https://www.kaggle.com/mlg-ulb/creditcardfraud
+Dataset Source : Kaggle
 
 It is a CSV file, contains 31 features, the last feature is used to classify the transaction whether it is a fraud or not.
 
